@@ -2,13 +2,13 @@
   "code" : 0,
   "subcode" : 0,
   "data" : {
-    "ts" : 1686823200,
+    "ts" : 1686830401,
     "couponInfo" : {
       "E280023469644636AEEF5EB4F36F6FC1" : {
         "couponEndTime" : 1686931199,
         "dynamicValue" : 0,
         "couponReferId" : "E280023469644636AEEF5EB4F36F6FC1",
-        "couponStartTime" : 1686815435,
+        "couponStartTime" : 1686823201,
         "couponViewId" : null,
         "couponConfigId" : 6180538942089,
         "couponValue" : 20,
@@ -18,16 +18,16 @@
         "priceLimit" : 0,
         "originCouponRedirectType" : "{\"tuan_app\":\"imeituan://www.meituan.com/supermarketfilter?navigate_type=108663&categorytype=108663&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D\"}",
         "couponType" : 0,
-        "progressPercent" : 47,
+        "progressPercent" : 50,
         "redirectUrl" : "imeituan://www.meituan.com/supermarketfilter?navigate_type=108663&categorytype=108663&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D",
         "couponName" : "宠物用品通用红包",
-        "status" : 6
+        "status" : 0
       },
       "6BDB431721F0445C9360C6B64777157A" : {
         "couponEndTime" : 1686931199,
         "dynamicValue" : 0,
         "couponReferId" : "6BDB431721F0445C9360C6B64777157A",
-        "couponStartTime" : 1686815435,
+        "couponStartTime" : 1686823201,
         "couponViewId" : null,
         "couponConfigId" : 6183587676809,
         "couponValue" : 100,
@@ -37,16 +37,16 @@
         "priceLimit" : 199,
         "originCouponRedirectType" : "{\"tuan_app\":\"imeituan://www.meituan.com/supermarketfilter?navigate_type=108613&categorytype=108613&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D\"}",
         "couponType" : 0,
-        "progressPercent" : 0,
+        "progressPercent" : 100,
         "redirectUrl" : "imeituan://www.meituan.com/supermarketfilter?navigate_type=108613&categorytype=108613&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D",
         "couponName" : "美妆日化通用红包",
-        "status" : 6
+        "status" : 2
       },
       "9838D3D1E27A4FD495EE74EDC3074428" : {
         "couponEndTime" : 1686931199,
         "dynamicValue" : 0,
         "couponReferId" : "9838D3D1E27A4FD495EE74EDC3074428",
-        "couponStartTime" : 1686815435,
+        "couponStartTime" : 1686823201,
         "couponViewId" : null,
         "couponConfigId" : 6178989802121,
         "couponValue" : 100,
@@ -56,16 +56,16 @@
         "priceLimit" : 0,
         "originCouponRedirectType" : "{\"tuan_app\":\"imeituan://www.meituan.com/supermarketfilter?navigate_type=108655&categorytype=108655&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D\"}",
         "couponType" : 0,
-        "progressPercent" : 0,
+        "progressPercent" : 100,
         "redirectUrl" : "imeituan://www.meituan.com/supermarketfilter?navigate_type=108655&categorytype=108655&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D",
         "couponName" : "数码家电通用红包",
-        "status" : 6
+        "status" : 2
       },
       "1DDE250940B24F6897370245C2F3FC59" : {
         "couponEndTime" : 1686931199,
         "dynamicValue" : 0,
         "couponReferId" : "1DDE250940B24F6897370245C2F3FC59",
-        "couponStartTime" : 1686815435,
+        "couponStartTime" : 1686823201,
         "couponViewId" : null,
         "couponConfigId" : 6180410753673,
         "couponValue" : 50,
@@ -75,16 +75,16 @@
         "priceLimit" : 0,
         "originCouponRedirectType" : "{\"tuan_app\":\"imeituan://www.meituan.com/supermarketfilter?navigate_type=108658&categorytype=108658&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D\"}",
         "couponType" : 0,
-        "progressPercent" : 0,
+        "progressPercent" : 100,
         "redirectUrl" : "imeituan://www.meituan.com/supermarketfilter?navigate_type=108658&categorytype=108658&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D",
         "couponName" : "母婴玩具通用红包",
-        "status" : 6
+        "status" : 2
       },
       "E3FB0F1E9F764398B7EB841DBE374733" : {
         "couponEndTime" : 1686931199,
         "dynamicValue" : 0,
         "couponReferId" : "E3FB0F1E9F764398B7EB841DBE374733",
-        "couponStartTime" : 1686815435,
+        "couponStartTime" : 1686823201,
         "couponViewId" : null,
         "couponConfigId" : 6179056190089,
         "couponValue" : 10,
@@ -94,10 +94,10 @@
         "priceLimit" : 0,
         "originCouponRedirectType" : "{\"tuan_app\":\"imeituan://www.meituan.com/supermarketfilter?navigate_type=108667&categorytype=108667&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D\"}",
         "couponType" : 0,
-        "progressPercent" : 0,
+        "progressPercent" : 8,
         "redirectUrl" : "imeituan://www.meituan.com/supermarketfilter?navigate_type=108667&categorytype=108667&categorytext=%E7%99%BE%E8%B4%A7&search_category_type=102130&needlocate=1&show_tabbar=0&extra=%7B%22is_minute_buy%22%3A1%2C%22type%22%3A%22pinzhibaihuo%22%7D",
         "couponName" : "日百服饰通用红包",
-        "status" : 6
+        "status" : 0
       }
     }
   },
